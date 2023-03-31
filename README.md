@@ -1,3 +1,1 @@
-# typescript
-
-블록체인 만들기 !! 
+# typescript 기초 배우기
